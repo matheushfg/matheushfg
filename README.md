@@ -2,7 +2,6 @@
 
 - 🌱 Atualmente estudando React e Typescript
 - 📫 Contate-me: matheushfguimaraes@gmail.com
-- 😄 Pronomes: ele/dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathguimaraes9&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathguimaraes9&hide_progress=true&theme=radical)
